@@ -1,6 +1,6 @@
 ![](synthwave2.gif)
 
-![](Animation5.gif)
+![](Animation6.gif)
 
 ### Hi there 👋
 My name is Andreas and I am currently studying data science
