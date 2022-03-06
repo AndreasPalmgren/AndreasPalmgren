@@ -1,3 +1,5 @@
+![](profile_github.gif)
+
 ![](synthwave2.gif)
 
 ![](Animation6.gif)
