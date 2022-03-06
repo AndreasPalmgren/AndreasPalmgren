@@ -1,5 +1,5 @@
 ![](synthwave2.gif)
-
+![](animation5.gif)
 
 ### Hi there 👋
 My name is Andreas and I am currently studying data science
