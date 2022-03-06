@@ -4,6 +4,13 @@ My name is Andreas and I am currently studying data science!
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
+
+![](http://i.imgur.com/OUkLi.gif)
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasPalmgren&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Andreas' GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasPalmgren&show_icons=true&theme=synthwave&count_private=true)
