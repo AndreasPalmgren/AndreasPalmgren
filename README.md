@@ -1,11 +1,11 @@
+![](synthwave2.gif)
+
 ### Hi there 👋
 My name is Andreas and I am currently studying data science
 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-
-![](synthwave2.gif)
 
 
 
