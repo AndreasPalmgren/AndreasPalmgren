@@ -9,7 +9,7 @@ My name is Andreas and I am currently studying data science
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1&height=300&section=footer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasPalmgren&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
