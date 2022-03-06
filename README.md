@@ -1,7 +1,7 @@
 ![](profile_github.gif)
 
 ### Hello, folks! 👋
-I'm a student from Sweden, and I am pursuing a degree in data science. loves to explore, visualize and learn from data. 
+I'm a student from Sweden, and I am pursuing a degree in data science. I love to explore, visualize and learn from data. 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
