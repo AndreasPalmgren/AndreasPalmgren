@@ -1,7 +1,7 @@
 ![](profile_github.gif)
 
 ### Hello, folks! 👋
-I'm a Swedish student who plans to major in data science. I enjoy investigating, analyzing, and learning from data.
+I enjoy investigating, analyzing, and learning from data.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
